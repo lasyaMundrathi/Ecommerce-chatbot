@@ -3,6 +3,10 @@
 Welcome to the Ecommerce Chatbot project! This chatbot is designed to assist users with their online shopping experience by providing product recommendations, answering questions, and assisting with various inquiries related to the ecommerce store.
 
 ---
+### Demonstration
+
+https://github.com/user-attachments/assets/aafbfcd8-a12d-4bbf-88a5-4aed824e4ea9
+
 
 ## Overview
 
@@ -41,5 +45,8 @@ To set up the Ecommerce Chatbot locally, follow these steps:
 Start the Flask application:
     ```bash
    python app.py
+
+### Usage
+Once the application is running, access the chatbot via your browser at http://127.0.0.1:5000 or the port specified in the Flask configuration.
 
 
